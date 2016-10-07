@@ -13,9 +13,10 @@
   },
   "license": "MIT",
   "dependencies": {
+    "aurelia-animator-css": "^1.0.0",
     "aurelia-bootstrapper": "^1.0.0",
     "aurelia-fetch-client": "^1.0.0",
-    "aurelia-animator-css": "^1.0.0",
+    "aurelia-materialize-bridge": "^0.17.1",
     "bluebird": "^3.4.1"
   },
   "peerDependencies": {},
@@ -36,6 +37,7 @@
     "babel-register": "^6.9.0",
     "browser-sync": "^2.13.0",
     "connect-history-api-fallback": "^1.2.0",
+    "del": "^2.2.2",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-babel": "^6.1.2",
     "gulp-changed-in-place": "^2.0.3",
