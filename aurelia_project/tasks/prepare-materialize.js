@@ -1,8 +1,8 @@
-import * as gulp from 'gulp';
-import * as merge from 'merge-stream';
-import * as changedInPlace from 'gulp-changed-in-place';
-import * as project from '../aurelia.json';
-import * as path from 'path';
+import gulp from 'gulp';
+import merge from 'merge-stream';
+import changedInPlace from 'gulp-changed-in-place';
+import project from '../aurelia.json';
+import path from 'path';
 
 export default function prepareMaterialize() {
 

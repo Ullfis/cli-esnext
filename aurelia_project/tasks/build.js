@@ -1,4 +1,4 @@
-import * as gulp from 'gulp';
+import gulp from 'gulp';
 
 import preBuild from './build-pre';
 import rebuild from './build-start';

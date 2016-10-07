@@ -1,6 +1,6 @@
-import * as gulp from 'gulp';
-import * as project from '../aurelia.json';
-import * as path from 'path';
+import gulp from 'gulp';
+import project from '../aurelia.json';
+import path from 'path';
 
 export default function prepareScripts() {
 

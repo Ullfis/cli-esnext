@@ -1,4 +1,4 @@
-import * as gulp from 'gulp';
+import gulp from 'gulp';
 
 import prepareOutput from './prepare-output';
 import prepareMaterialize from './prepare-materialize';
