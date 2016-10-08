@@ -5,7 +5,9 @@
   "scripts": {
     "____pre____": "",
     "materialize": "./node_modules/.bin/r.js -o tools/rbuild.js",
-    "materializewin": "./node_modules/.bin/r.js.cmd -o tools/rbuild.js"
+    "materializewin": "./node_modules/.bin/r.js.cmd -o tools/rbuild.js",
+    "postmaterialize": "au prepare-materialize",
+    "postmaterializewin": "au prepare-materialize"    
   },
   "repository": {
     "type": "???",

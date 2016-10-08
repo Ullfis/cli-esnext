@@ -3,3 +3,5 @@ node_modules
 .DS_STORE
 scripts
 fonts
+styles/materialize.min.css
+release
