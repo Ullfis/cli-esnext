@@ -7,7 +7,7 @@
     "materialize": "./node_modules/.bin/r.js -o tools/rbuild.js",
     "materializewin": "./node_modules/.bin/r.js.cmd -o tools/rbuild.js",
     "postmaterialize": "au prepare-materialize",
-    "postmaterializewin": "au prepare-materialize"    
+    "postmaterializewin": "au prepare-materialize"
   },
   "repository": {
     "type": "???",
@@ -23,7 +23,7 @@
   },
   "peerDependencies": {},
   "devDependencies": {
-    "aurelia-cli": "^0.20.2",
+    "aurelia-cli": "github:jeroenvinke/cli",
     "aurelia-testing": "^1.0.0-beta.2.0.0",
     "aurelia-tools": "^0.2.2",
     "babel-eslint": "^6.0.4",
