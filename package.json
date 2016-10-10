@@ -19,7 +19,9 @@
     "aurelia-bootstrapper": "^1.0.0",
     "aurelia-fetch-client": "^1.0.0",
     "aurelia-materialize-bridge": "^0.17.1",
-    "bluebird": "^3.4.1"
+    "bluebird": "^3.4.1",
+    "requirejs": "^2.3.2",
+    "text": "github:requirejs/text"
   },
   "peerDependencies": {},
   "devDependencies": {
@@ -37,7 +39,7 @@
     "babel-preset-es2015-loose": "^7.0.0",
     "babel-preset-stage-1": "^6.5.0",
     "babel-register": "^6.9.0",
-    "browser-sync": "^2.13.0",
+    "browser-sync": "^2.17.2",
     "connect-history-api-fallback": "^1.2.0",
     "del": "^2.2.2",
     "gulp": "github:gulpjs/gulp#4.0",
@@ -55,7 +57,6 @@
     "karma-jasmine": "^1.0.2",
     "materialize-css": "^0.97.7",
     "minimatch": "^3.0.2",
-    "requirejs": "^2.3.2",
     "through2": "^2.0.1",
     "uglify-js": "^2.6.3",
     "vinyl-fs": "^2.4.3"
