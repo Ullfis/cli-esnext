@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "aurelia-animator-css": "^1.0.0",
-    "aurelia-bootstrapper": "^1.0.0",
+    "aurelia-bootstrapper": "^1.0.1",
     "aurelia-fetch-client": "^1.0.0",
     "aurelia-materialize-bridge": "^0.17.1",
     "aurelia-validation": "^0.13.1",
@@ -26,7 +26,7 @@
   },
   "peerDependencies": {},
   "devDependencies": {
-    "aurelia-cli": "github:jeroenvinke/cli",
+    "aurelia-cli": "^0.21.0",
     "aurelia-testing": "^1.0.0-beta.2.0.0",
     "aurelia-tools": "^0.2.2",
     "babel-eslint": "^6.0.4",
@@ -40,7 +40,7 @@
     "babel-preset-es2015-loose": "^7.0.0",
     "babel-preset-stage-1": "^6.5.0",
     "babel-register": "^6.9.0",
-    "browser-sync": "^2.17.2",
+    "browser-sync": "^2.17.3",
     "connect-history-api-fallback": "^1.2.0",
     "del": "^2.2.2",
     "gulp": "github:gulpjs/gulp#4.0",
@@ -60,6 +60,6 @@
     "minimatch": "^3.0.2",
     "through2": "^2.0.1",
     "uglify-js": "^2.6.3",
-    "vinyl-fs": "^2.4.3"
+    "vinyl-fs": "^2.4.4"
   }
 }

@@ -1,6 +1,6 @@
 # cli-esnext
 
-- aurelia-cli @0.20.2
+- aurelia-cli @0.21.0
 - aurelia-materialize-bridge @0.17.1
 
 ## install
